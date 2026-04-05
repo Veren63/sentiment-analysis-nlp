@@ -23,3 +23,17 @@ Eksperimen menunjukkan bahwa n-gram yang lebih besar tidak selalu meningkatkan p
 ```bash
 pip install -r requirements.txt
 python app.py
+
+**## 📷 Contoh Output**
+
+Input:
+"This product is amazing"
+
+Output:
+Positive 😊
+
+Input:
+"This is terrible"
+
+Output:
+Negative 😡
