@@ -3,6 +3,18 @@
 ## 📌 Overview
 Project ini bertujuan untuk mengklasifikasikan sentimen teks menjadi positif atau negatif menggunakan Natural Language Processing.
 
+## 🛠️ Tech Stack
+- Python
+- Pandas
+- Scikit-learn
+- NLTK
+
+## 🚀 Project Highlights
+- Built end-to-end NLP pipeline
+- Performed text preprocessing and feature engineering
+- Compared multiple models (Logistic Regression vs Naive Bayes)
+- Achieved ~89.5% accuracy
+  
 ## 🧠 Model
 - TF-IDF (ngram 1–2)
 - Logistic Regression
